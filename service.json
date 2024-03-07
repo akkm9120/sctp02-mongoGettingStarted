@@ -1,0 +1,12 @@
+[
+    {
+        "serviceId": 7001,
+        "serviceName": "haircut",
+        "price": 50
+    },
+    {
+        "serviceId": 7002,
+        "serviceName": "rebonding",
+        "price": 90
+    }
+]

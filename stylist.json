@@ -1,0 +1,16 @@
+[
+    {
+        "id":5001 ,
+        "name": "Rashi",
+        "contactNumber": "888888",
+        "rank": "director",
+        "availabeServices": ["color","haircuts","rebonding"]
+    },
+    {
+        "id":5002 ,
+        "name": "Lily",
+        "contactNumber": "123123",
+        "rank": "stylist",
+        "availabeServices": ["color","haircuts"]
+    }
+]

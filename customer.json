@@ -1,0 +1,43 @@
+[
+{
+    "_id":1001,
+    "name": "Steve",
+    "contactNumber" : 99999,
+    "membershipTier": "gold",
+    "apointments": [
+        {
+            "appointId": "9001",
+            "serviceId":7001,
+            "datetime":"2024-03-03 10:00",
+            "stylistId": 5001,
+            "payment": {
+                "paymentId": 3001,
+                "datetime": "2024-03-06 14:00",
+                "amount": 75,
+                "mode": "cc"
+            }
+        }
+    ]
+},
+{
+    "_id":1002,
+    "name": "Jack",
+    "contactNumber" : 91119999,
+    "membershipTier": "silver",
+    "apointments": [
+        {
+            "appointId": "9002",
+            "serviceId":7002,
+            "datetime":"2024-03-03 11:00",
+            "stylistId": 5002,
+            "payment": {
+                "paymentId": 3002,
+                "datetime": "2024-03-06 15:00",
+                "amount": 25,
+                "mode": "paynow"
+            }
+        }
+    ]
+
+}
+]
