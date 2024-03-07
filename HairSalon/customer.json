@@ -27,7 +27,7 @@
     "apointments": [
         {
             "appointId": "9002",
-            "serviceId":[7002],
+            "serviceId":[7002,7001],
             "datetime":"2024-03-03 11:00",
             "stylistId": 5002,
             "payment": {
