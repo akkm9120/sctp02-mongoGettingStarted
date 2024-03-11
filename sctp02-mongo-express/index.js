@@ -18,7 +18,7 @@ async function connect(uri, dbname){
 } 
 
 async function main(){
-    const uri = "mongodb+srv://NoName1123:NoName1123@cluster0.mnrbmx6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+    const uri = "";
     const db = await connect(uri,"sample_mflix");
 
     app.get("/",async (req,res)=>{
